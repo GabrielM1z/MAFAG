@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MAFAG</string>
+    <string name="txtView_1">SUPER APPLICATION DU MAFAG</string>
+    <string name="btn_1">Faire un choix</string>
+    <string name="btn_2">Ouvrir le MAFAG</string>
+    <string name="btn_2_land">Notifier!</string>
+    <string name="img_1_description">microsoft</string>
+    <string name="img_2_description">apple</string>
+    <string name="img_3_description">facebook</string>
+    <string name="img_4_description">amazon</string>
+    <string name="img_5_description">google</string>
+</resources>

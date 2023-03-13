@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/m_LL_0"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <ImageButton
+        android:id="@+id/img_microsoft"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:src="@drawable/microsoft_red"
+        android:contentDescription="@string/img_1_description" />
+
+    <ImageButton
+        android:id="@+id/img_apple"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:src="@drawable/apple_red"
+        android:contentDescription="@string/img_2_description" />
+
+    <ImageButton
+        android:id="@+id/img_fb"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:src="@drawable/facebook_red"
+        android:contentDescription="@string/img_3_description" />
+
+    <ImageButton
+        android:id="@+id/img_amazon"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:src="@drawable/amazon_red"
+        android:contentDescription="@string/img_4_description" />
+
+    <ImageButton
+        android:id="@+id/img_google"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:src="@drawable/google_red"
+        android:contentDescription="@string/img_5_description" />
+
+</LinearLayout>
